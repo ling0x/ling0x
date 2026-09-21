@@ -13,8 +13,8 @@
 ║  ▓▒░  E N G I N E E R  ·  A R C H I T E C T  ░▒▓   ║
 ║                                                    ║
 ╠════════════════════════════════════════════════════╣
-║  SYSTEM    :: LING                [▓▓▓▓▓▓▒▒]  88%  ║
-║  ROLE      :: FULL_STACK          [▓▓▓▓▓▓▓▒]  99%  ║
+║  SYSTEM    :: LING                [▓▓▓▓▒▒░░]  66%  ║
+║  ROLE      :: FULL_STACK          [▓▓▓▓▓▓▒░]  88%  ║
 ║  MODE      :: RUSTACEAN           [▓▓▓▓▓▓▓▓]  MAX  ║
 ║  ARCHITECT :: CODE & SPACE        [▓▓▓▓▒▒▒▒]  1:1  ║
 ║  STACK     :: RUST/AXUM/WGPU/WASM [▓▓▓▓▓▓▓▓] 100%  ║
